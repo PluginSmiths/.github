@@ -1,8 +1,11 @@
 # About Us:
-We are a group of developers creating plugins for MCreator.
+We are a group of developers creating plugins for MCreator and mods for Minecraft.
 
-The team is divided into three task groups: procedures, mod elements and APIs.
-The team will continue to grow.
+Team members:
+- OVONSAME: Team creator. Makes procedures. Main developer of all plugins. Knows a lot about creating addons for mods. Knows Java, Python, JS.
+- Jcm: Second member of the team. Makes mod elements. Knows Java, Ruby, C.
+- Maxha: Third member of the team. Makes APIs and knows how to make procedures. Knows Java.
+- Bread: Fourth member of the team. OVONSAME's student. Makes procedures and more. Knows Java. The man who told OVONSAME how to make plugins.
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos?period=past_12_months&owner_id=179310575" target="_blank" style="display: block" align="center">
   <picture>
