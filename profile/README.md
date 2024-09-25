@@ -1,5 +1,16 @@
 # About Us:
 We are a group of developers creating plugins for MCreator.
+The team is divided into three task groups: procedures, mod elements and APIs
+
+Procedures:
+- OVONSAME 
+- Bread
+Mod elements:
+- Jcm
+APIs:
+- Maxhaa
+
+The team will continue to grow.
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos?period=past_12_months&owner_id=179310575" target="_blank" style="display: block" align="center">
   <picture>
