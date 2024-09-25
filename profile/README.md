@@ -3,7 +3,7 @@ We are a group of developers creating plugins for MCreator and mods for Minecraf
 
 #### Team members:
 - **OVONSAME**: Team creator and leader. Makes procedures. Leaddeveloper of  plugins. Knows a lot about creating addons for mods. Knows Java, Python, JS.
-- **Jcm23**: Second member of the team. Makes mod elements. Knows Java, C, C++, Python, JS, HTML, CSS, Kotlin. Not the best at making procedures. Knows how to make APIs.
+- **Jcm23**: Second member of the team. Makes mod elements. Knows Java, C, C++, Python, JS, HTML, CSS, SASS, Kotlin. Not the best at making procedures. Knows how to make APIs.
 - **Maxhaaa**: Third member of the team. Makes APIs and knows how to make procedures. Knows Java.
 - **Bread**: Fourth member of the team. OVONSAME's student. Makes procedures and more. Knows Java. The man who told OVONSAME how to make plugins.
 
