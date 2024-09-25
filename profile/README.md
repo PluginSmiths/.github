@@ -1,7 +1,7 @@
 # About Us:
 We are a group of developers creating plugins for MCreator and mods for Minecraft.
 
-Team members:
+#### Team members:
 - OVONSAME: Team creator. Makes procedures. Main developer of all plugins. Knows a lot about creating addons for mods. Knows Java, Python, JS.
 - Jcm: Second member of the team. Makes mod elements. Knows Java, Ruby, C.
 - Maxha: Third member of the team. Makes APIs and knows how to make procedures. Knows Java.
