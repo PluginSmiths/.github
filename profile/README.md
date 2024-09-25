@@ -3,12 +3,12 @@ We are a group of developers creating plugins for MCreator.
 The team is divided into three task groups: procedures, mod elements and APIs
 
 Procedures:
-- OVONSAME 
-- Bread
+ - OVONSAME 
+ - Bread
 Mod elements:
-- Jcm
+ - Jcm
 APIs:
-- Maxhaa
+ - Maxhaa
 
 The team will continue to grow.
 
