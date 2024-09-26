@@ -2,12 +2,12 @@
 We are a group of developers creating plugins for MCreator and mods for Minecraft.
 
 #### Team members:
-- **OVONSAME**: Team creator and leader. Makes procedures and more. Leaddeveloper of  plugins. Knows a lot about creating addons for mods. Knows Java, Python, JS.
+- **OVONSAME**: Team creator and leader. Makes procedures and more. Lead developer of PluginSmiths plugins. Knows a lot about creating addons for mods. Knows Java, Python, JS.
 - **Jcm23**: Second member of the team. Makes mod elements. Knows Java, C, C++, Python, JS, HTML, CSS, SASS, Kotlin. Not the best at making procedures. Knows how to make APIs.
 - **Maxhaaa**: Third member of the team. Makes APIs and knows how to make procedures. Knows Java.
 - **Bread**: Fourth member of the team. OVONSAME's student. Makes procedures and more. Knows Java. The man who told OVONSAME how to make plugins.
 
-We explore and implement new areas in Minecraft modding for Forge, NeoForge, Fabric.
+We explore and implement new features in Minecraft modding for Forge, NeoForge and Fabric in MCreator.
 
 We will always be glad if you join our team!
 
